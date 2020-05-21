@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Basic Data Type](#basic-data-type)
+  - [Integer](#integer)
+    - [conversion](#conversion)
+    - [Operation](#operation)
+  - [Float](#float)
+  - [Complex](#complex)
+  - [Boolean](#boolean)
+  - [String](#string)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Basic Data Type
 ### Integer
 - **signed**: range`[0,2^(n-1)]`, `99% usage`

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Scope](#scope)
+  - [Categories](#categories)
+  - [for..loop](#forloop)
+  - [if..else](#ifelse)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Scope
 - also called `lexical scope` or `static scope`
 - regions that one piece of code can have access to

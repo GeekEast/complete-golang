@@ -7,13 +7,10 @@
   ],
   "license": "MIT",
   "author": "GeekEast",
-  "devDependencies": {
-    "doctoc": "^1.4.0",
-    "husky": "^4.2.5"
+  "scripts": {
+    "format":"yarn doctoc . --github --title \"## Table Of Content\" && git add -A"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn doctoc . --github --title \"## Table Of Content\" && git add -A"
-    }
+  "devDependencies": {
+    "doctoc": "^1.4.0"
   }
 }

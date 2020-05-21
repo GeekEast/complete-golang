@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Package and Files](#package-and-files)
+  - [Initialization](#initialization)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Package and Files
 - files within one folder should only have **one** package declared.
 ```

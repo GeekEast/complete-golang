@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Performance](#performance)
+  - [Goroutine Leaking](#goroutine-leaking)
+    - [Try and Error](#try-and-error)
+    - [Solution 1: drain channel](#solution-1-drain-channel)
+    - [Solution 2: bufferred channel](#solution-2-bufferred-channel)
+    - [Solution 3: select and broadcast cancellation](#solution-3-select-and-broadcast-cancellation)
+  - [Rules](#rules)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Performance
 ### Goroutine Leaking
 - **Reason**: `blocked` goroutine won't be **cycled** by the GC automatically

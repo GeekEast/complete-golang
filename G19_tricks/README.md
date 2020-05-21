@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Swap in Go](#swap-in-go)
+- [Print type](#print-type)
+- [Passing by what?](#passing-by-what)
+- [Logging](#logging)
+- [The essense of Lock](#the-essense-of-lock)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Swap in Go
 ```go
 i,j = j,i // swap value of i,j

@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Concepts](#concepts)
+  - [Multitasking](#multitasking)
+  - [Context Switch](#context-switch)
+- [Go Routine](#go-routine)
+- [Projects References](#projects-references)
+- [References](#references)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Concepts
 ### Multitasking

@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Sync using unbuffered channel](#sync-using-unbuffered-channel)
+- [Sync using `sync.awaitGroup`](#sync-using-syncawaitgroup)
+- [What if you want to sum ?!](#what-if-you-want-to-sum-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Sync using unbuffered channel
 ```go
 func EmbarrassingConcurrencyChannelSync() {

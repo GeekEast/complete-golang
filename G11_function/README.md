@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Function](#function)
+  - [Declaration](#declaration)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Function
 - `first-class` member: can be defined as normal type
 ```go

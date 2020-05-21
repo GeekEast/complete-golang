@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Theory](#theory)
+  - [Occurence](#occurence)
+- [Channel](#channel)
+  - [Operation](#operation)
+    - [Create](#create)
+    - [Send](#send)
+    - [Close](#close)
+    - [Receive](#receive)
+    - [Drain](#drain)
+  - [Types](#types)
+    - [Unbufferred Channel](#unbufferred-channel)
+    - [Bufferred Channels](#bufferred-channels)
+    - [Pipelines](#pipelines)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Theory
 ### Occurence
 - **Happens Before**

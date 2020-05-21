@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Lifetime of Variables](#lifetime-of-variables)
+  - [Levels](#levels)
+  - [Performance Optimization](#performance-optimization)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Lifetime of Variables
 ### Levels
 - `package-level`: entire execution of the program.

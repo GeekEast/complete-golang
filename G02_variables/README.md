@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Declarations](#declarations)
+  - [`var`](#var)
+    - [`:=` Short Variable Declarations](#-short-variable-declarations)
+  - [const](#const)
+  - [`type`](#type)
+    - [declare](#declare)
+    - [convert](#convert)
+    - [compare](#compare)
+    - [attach function](#attach-function)
+  - [`func`](#func)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Declarations
 - `local` variables are initialized when its line is encountered **during function exectution**
 - `package-level` variables are initialized **before `main()` executes**

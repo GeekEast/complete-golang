@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Error handling in Golang](#error-handling-in-golang)
+  - [Error](#error)
+    - [Get Error](#get-error)
+    - [Generate Error](#generate-error)
+  - [Serve Error - Panic](#serve-error---panic)
+    - [defer](#defer)
+    - [panic](#panic)
+    - [recover](#recover)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Error handling in Golang
 - Level 1: error
 - Level 2: panic (serve error)

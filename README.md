@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table Of Content
+
+- [Start Go on MacOS](#start-go-on-macos)
+- [Hello Golang](#hello-golang)
+- [Go CMD](#go-cmd)
+- [Go Module](#go-module)
+- [Future Plan](#future-plan)
+- [Learning Resources](#learning-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 ## Start Go on MacOS
