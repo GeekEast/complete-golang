@@ -5,8 +5,8 @@
   "keywords": [
     "Go"
   ],
-  "author": "GeekEast",
   "license": "MIT",
+  "author": "GeekEast",
   "devDependencies": {
     "doctoc": "^1.4.0",
     "husky": "^4.2.5"
