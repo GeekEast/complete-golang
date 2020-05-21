@@ -1,0 +1,19 @@
+{
+  "name": "complete-golang",
+  "version": "1.0.0",
+  "description": "The complete introction to Golang",
+  "keywords": [
+    "Go"
+  ],
+  "author": "GeekEast",
+  "license": "MIT",
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn doctoc . --github --title \"## Table Of Content\" && git add -A"
+    }
+  }
+}
