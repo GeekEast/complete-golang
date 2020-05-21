@@ -84,4 +84,3 @@ go get -u                # update all
 - [Go Introduction](https://medium.com/rungo/go-introductory-tutorials-896aeda0fb8a)
 - [Introcution to OOP in GO](https://code.egym.de/introduction-to-oop-in-golang-e4841a9c4e3e)
 - [Go Bible Code Samples](https://github.com/adonovan/gopl.io)
-- 
