@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table Of Content
 
+- [Table Of Content](#table-of-content)
 - [Start Go on MacOS](#start-go-on-macos)
 - [Hello Golang](#hello-golang)
 - [Go CMD](#go-cmd)
@@ -72,6 +73,10 @@ go get -u                # update all
 - Chapter 12: Reflection
 - Chapter 9: Concurrency with Share Variables
 - Chapter 10: Package and Tool
+- [Go Concurrency Pattern: Pipeline and Cancellation](https://blog.golang.org/pipelines)
+- [Go Concurrency Pattern: Context](https://blog.golang.org/context)
+- [Go Concurrency Pattern: Time out, moving on](https://blog.golang.org/concurrency-timeouts)
+- [Share memory by communicating](https://blog.golang.org/codelab-share)
 
 ## Learning Resources
 - [Go Examples](https://gobyexample.com/interfaces)
@@ -79,3 +84,4 @@ go get -u                # update all
 - [Go Introduction](https://medium.com/rungo/go-introductory-tutorials-896aeda0fb8a)
 - [Introcution to OOP in GO](https://code.egym.de/introduction-to-oop-in-golang-e4841a9c4e3e)
 - [Go Bible Code Samples](https://github.com/adonovan/gopl.io)
+- 
